@@ -3,7 +3,6 @@
 I assume that .csv file holds just one account data at a time and that credit/debit operations are indicated by the amount being negative/positive.
 
 ## How to run
-To run execute command in project root:
 
 ### First step
 Run application (BankAccountManagerApplication file). App runs on port 8080
